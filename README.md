@@ -7,3 +7,5 @@ Co-founder of [Vexaloom Labs](https://apify.com/vexaloom-labs). I build Apify Ac
 - Connect datasets with applications through API integrations.
 
 [Explore Vexaloom Labs on Apify](https://apify.com/vexaloom-labs)
+
+[Actor examples and documentation](https://github.com/asimkhaniqbal/apify-actor-examples)
